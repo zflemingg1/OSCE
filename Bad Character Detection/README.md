@@ -8,5 +8,5 @@ It iterates all characters starting from `00` to `FF` and try to identify good a
 - install `pywin32-218.win32-py2.7.exe` and `WMI-1.4.9.win32.exe`.
 
 ### Sample Output
-
+![Alt text](Screenshots/1.PNG)
 
