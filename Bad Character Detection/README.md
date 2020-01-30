@@ -9,4 +9,6 @@ It iterates all characters starting from `00` to `FF` and try to identify good a
 
 ### Sample Output
 ![Alt text](Screenshots/1.PNG)
+![Alt text](Screenshots/2.PNG)
+![Alt text](Screenshots/3.PNG)
 
