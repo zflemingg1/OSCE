@@ -19,7 +19,7 @@ python find_safe_address.py -r address.txt -g good_chars.txt
 ```
 
 ### Sample Output
-![Alt text](Screenshots/1.PNG)
 ![Alt text](Screenshots/2.PNG)
+![Alt text](Screenshots/1.PNG)
 
 
