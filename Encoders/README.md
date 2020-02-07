@@ -19,7 +19,8 @@ Usage: eax_sub_encoder.py <OPTIONS>
 ```
 
 ### Sample Output
-![Alt text](Screenshots/2.PNG)
 ![Alt text](Screenshots/1.PNG)
+![Alt text](Screenshots/2.PNG)
+![Alt text](Screenshots/3.PNG)
 
 
