@@ -22,7 +22,7 @@ Usage: eax_sub_encoder.py <OPTIONS>
 ### Sample Output
 ![Usage](Screenshots/1.PNG "Usage")
 ![Alt text](Screenshots/2.PNG)
-Payload to be encoded
+```Payload to be encoded```
 ![Alt text](Screenshots/3.PNG)
 Output of script
 
